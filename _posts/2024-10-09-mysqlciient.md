@@ -27,7 +27,6 @@ ERROR: No matching distribution found for mysqlclient
 python setup.py install
 ```
 4. 安装完成后，再次执行pip install mysqlclient，应该就不会报错了。
-<p>
 
 
 #####  如果刚才没什么用，现象2
