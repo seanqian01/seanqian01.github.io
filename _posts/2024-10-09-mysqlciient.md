@@ -29,7 +29,7 @@ python setup.py install
 4. 安装完成后，再次执行pip install mysqlclient，应该就不会报错了。
 
 
-##### 如果刚才没什么用，现象2
+##### 如果刚才没什么用
 
 如果报错信息是这样的：
     ```note: This error originates from a subprocess, and is likely not a problem with pip.
