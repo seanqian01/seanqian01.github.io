@@ -29,8 +29,9 @@ python setup.py install
 4. 安装完成后，再次执行pip install mysqlclient，应该就不会报错了。
 
 
-#####  如果刚才没什么用，现象2
-- 如果报错信息是这样的：
+##### 如果刚才没什么用，现象2
+
+如果报错信息是这样的：
     ```note: This error originates from a subprocess, and is likely not a problem with pip.
     error: subprocess-exited-with-error
 
@@ -40,15 +41,15 @@ python setup.py install
 
     note: This error originates from a subprocess, and is likely not a problem with pip.
     ```
-— 为了解决安装mysqlclient库的依赖库,要根据操作系统来安装:
+为了解决安装mysqlclient库的依赖库,要根据操作系统来安装:
 
-#####  ubuntu安装mysqlclient环境
+##### ubuntu安装mysqlclient环境
 
     sudo apt-get install python3-dev default-libmysqlclient-dev build-essential pkg-config
 
 -  安装好环境再pip install mysqlclient即可
 
-#####  centos安装mysqlclient环境
+##### centos安装mysqlclient环境
     mysqlclient安装失败要先安装mysql-devel
 
     yum install mysql-devel  python3-devel  gcc
