@@ -78,4 +78,4 @@ note: This error originates from a subprocess, and is likely not a problem with 
     export PKG_CONFIG_PATH=$(find /opt/homebrew/Cellar -name 'pkgconfig' -type d | grep lib/pkgconfig | tr '\n' ':' | sed s/.$//)
 
 
-##### 总之先安装各个不同操作系统的依赖就好
+- 总之先安装各个不同操作系统的依赖就好
