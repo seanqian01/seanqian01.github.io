@@ -43,18 +43,18 @@ python setup.py install
     ```
 — 为了解决安装mysqlclient库的依赖库,要根据操作系统来安装:
 
-###  ubuntu安装mysqlclient环境
+#####  ubuntu安装mysqlclient环境
 
     sudo apt-get install python3-dev default-libmysqlclient-dev build-essential pkg-config
 
 -  安装好环境再pip install mysqlclient即可
 
-###  centos安装mysqlclient环境
+#####  centos安装mysqlclient环境
     mysqlclient安装失败要先安装mysql-devel
 
     yum install mysql-devel  python3-devel  gcc
 
-### 树莓派安装mysqlclient环境
+##### 树莓派安装mysqlclient环境
     在raspi4b上面如果需要安装mysqlclient的包
 
     必须在之前安装下面的包
@@ -63,7 +63,7 @@ python setup.py install
 
     apt-get install build-essential
 
-### mac安装mysqlclient环境
+##### mac安装mysqlclient环境
     用brew install mysql-client，然后brew info mysql-client，有提示
 
     根据提示将如下示例运行：
@@ -75,4 +75,4 @@ python setup.py install
     export PKG_CONFIG_PATH=$(find /opt/homebrew/Cellar -name 'pkgconfig' -type d | grep lib/pkgconfig | tr '\n' ':' | sed s/.$//)
 
 
-### 总之先安装各个不同操作系统的依赖就好
+##### 总之先安装各个不同操作系统的依赖就好
