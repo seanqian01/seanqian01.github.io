@@ -33,15 +33,16 @@ python setup.py install
 
 如果报错信息是这样的：
 ```
-    note: This error originates from a subprocess, and is likely not a problem with pip.
-    error: subprocess-exited-with-error
+note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
 
     × Getting requirements to build wheel did not run successfully.
     │ exit code: 1
     ╰─> See above for output.
 
-    note: This error originates from a subprocess, and is likely not a problem with pip.
+note: This error originates from a subprocess, and is likely not a problem with pip.
 ```
+    
     
 为了解决安装mysqlclient库的依赖库,要根据操作系统来安装:
 
