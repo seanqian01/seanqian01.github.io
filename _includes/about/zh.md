@@ -7,7 +7,7 @@
 
 
 ##### 联系邮箱
-[请发送email到此]<mailto:mail@iiai.me>
+— 请发送email到此:<mailto:mail@iiai.me>
 
 
 
