@@ -45,7 +45,7 @@ tags:
   
   通过这个webhook放api接口进入到django框架内,django后台的信号的呈现是下图这样的:
 
-![webhook3_20240402174138809033.png](https://s2.loli.net/2024/10/11/CLO6XtoBkMPdVlF.png)
+![_20241011162004.png](https://s2.loli.net/2024/10/11/OqcxXRgmEYGu9i8.png)
 
 先把报警信号收进来,接口的写法这里就不赘述了,
 值得一提的是接口的代码里,本来想加入队列,让接口可以在队列里不断的接收tradinview的报警.
