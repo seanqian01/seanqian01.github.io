@@ -1,11 +1,4 @@
----
-layout: page
-title: "Quant"
-description: "「量化的微观世界完全可以一直玩到老」"
-header-img: "img/bg-me-2022.jpg"
-header-mask: 0.3
-multilingual: true
----
+
 
 #####  量化是什么 
   大钱，国内互联网从业20年，资深产品经理出身，JAVA，HTML什么都会一点，曾经的老矿工，曾经的老[《快钱》][1]人。
