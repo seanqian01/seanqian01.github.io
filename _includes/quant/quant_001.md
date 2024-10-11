@@ -1,15 +1,10 @@
 ---
-layout:       post
-title:        "怎样将TradingView的提醒信号接入到自己的系统内"
-author:       "Seanqian"
-header-style: text
-catalog:      true
-tags:
-    - tradingview 
-    - tradingview alert
-    - tradingview报警
-    
-
+layout: page
+title: "Quant"
+description: "「量化的微观世界完全可以一直玩到老」"
+header-img: "img/bg-me-2022.jpg"
+header-mask: 0.3
+multilingual: true
 ---
 
 #####  量化是什么 
