@@ -1,3 +1,17 @@
+---
+layout:       post
+title:        "怎样将TradingView的提醒信号接入到自己的系统内"
+author:       "Seanqian"
+header-style: text
+catalog:      true
+tags:
+    - tradingview 
+    - tradingview alert
+    - tradingview报警
+    
+
+---
+
 #####  量化是什么 
   大钱，国内互联网从业20年，资深产品经理出身，JAVA，HTML什么都会一点，曾经的老矿工，曾经的老[《快钱》][1]人。
 
