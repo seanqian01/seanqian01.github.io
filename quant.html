@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Quant"
-description: "「他只想让下半场过的精彩一点」"
+description: "「量化的微观世界完全可以一直玩到老」"
 header-img: "img/bg-me-2022.jpg"
 header-mask: 0.3
 multilingual: true
@@ -10,9 +10,15 @@ multilingual: true
 {% include multilingual-sel.html %}
 
 <!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+<!-- <div class="zh post-container">
+    {% capture about_zh %}{% include quant/quant_001.md %}{% endcapture %}
     {{ about_zh | markdownify }}
+</div> -->
+
+<div class="container">
+	<div class="row">
+        {% include quant/quant_001.md %}
+    </div>
 </div>
 
 <!-- English Version -->
