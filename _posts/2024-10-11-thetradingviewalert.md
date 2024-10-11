@@ -23,7 +23,7 @@ tags:
 
 
  示例信号的json代码如下:
-   {
+ ```{
     "secretkey": "itsthesecretheyhey",
     "symbol":"{{ticker}}",
     "scode":"RBK2405",
@@ -33,6 +33,7 @@ tags:
     "alert_title": "RBK2405_螺纹钢合约信号_开仓做多",
     "time_circle":"1m"
   }
+```
 
 - 通常信号里面的数据跟自己在django框架的api接收的接口要有对应关系.这些字段需要提前在django框架里新增
   然后根据接口的定义,比如contracttype=1是啥意思,自己在数据库里面定义好,接口就可以直接调用了.
