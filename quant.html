@@ -46,3 +46,12 @@ multilingual: true
 </script>
 <!-- disqus 公共JS代码 end -->
 {% endif %}
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+      document.querySelectorAll('a[href^="http://"], a[href^="https://"]').forEach(link => {
+        link.setAttribute("target", "_blank");
+      });
+    });
+</script>
+  
