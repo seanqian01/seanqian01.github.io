@@ -10,7 +10,7 @@
 |[FMZ发明者量化--COM][4]  | COM以币圈量化为主|
 |[聚宽JoinQuant][5]  |全平台|
 
-
+---
 
 ##### 本地数据服务相关
 
@@ -18,6 +18,12 @@
 |----- | -----|
 |[TUshare][2] | 本地数据包服务|
 |[akshare][6] | 本地数据包服务|
+
+---
+##### 模拟交易测试平台
+|平台名称   | 说明|
+|----- | -----|
+|[Simnow][7] | 上交所的子公司，商品期货测试环境官方数据|
 
 
 [1]: https://www.tradingview.com/
@@ -28,4 +34,5 @@
 
 [2]: https://tushare.pro/register?reg=504952
 [6]: https://akshare.akfamily.xyz/data/futures/futures.html
+[7]: https://www.simnow.com.cn/
 
