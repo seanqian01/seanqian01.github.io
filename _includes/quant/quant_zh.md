@@ -6,8 +6,8 @@
 |量化平台名称   | 类型|
 |----- | -----|
 |[Tradingview][1] | 全平台|
-|[FMZ发明者量化--CN][3]  | CN以国内为主|
-|[FMZ发明者量化--COM][4]  | COM以币圈为主|
+|[youquant优宽量化--CN][3]  | CN以国内为主，前身是发明者量化|
+|[FMZ发明者量化--COM][4]  | COM以币圈量化为主|
 |[聚宽JoinQuant][5]  |全平台|
 
 
@@ -21,7 +21,7 @@
 
 [1]: https://www.tradingview.com/
 [2]: https://tushare.pro/
-[3]: https://www.fmz.cn/
+[3]: https://www.youquant.com/
 [4]: https://www.fmz.com/
 [5]: https://www.joinquant.com/
 
