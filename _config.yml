@@ -7,6 +7,7 @@ description: "这里是 大钱 的个人博客，与你一起发现更大的世�
 keyword: "大钱, Seanqian大钱, SEAN大钱, 大钱的博客, Seanqian Blog, 博客, 个人网站, 互联网, Web, JavaScript, python, 量化, 期货量化, 程序员"
 url: "https://iiai.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+shopurl: "https://shop.iiai.me" # your shop url
 
 # Publish posts or collection documents with a future date.
 future: true
