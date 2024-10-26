@@ -12,16 +12,20 @@
 
 
 
-
-
 ##### 本地数据服务相关
 
-- [TUshare][2]  本地数据包服务
+|平台名称   | 类型|
+|----- | -----|
+|[TUshare][2] | 本地数据包服务|
+|[akshare][6] | 本地数据包服务|
 
 
 [1]: https://www.tradingview.com/
-[2]: https://tushare.pro/register?reg=504952
 [3]: https://www.youquant.com/sign-up/9725350
 [4]: https://www.fmz.com/sign-up/4833862
 [5]: https://www.joinquant.com/
+
+
+[2]: https://tushare.pro/register?reg=504952
+[6]: https://akshare.akfamily.xyz/data/futures/futures.html
 
