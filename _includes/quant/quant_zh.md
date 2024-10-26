@@ -20,8 +20,8 @@
 
 
 [1]: https://www.tradingview.com/
-[2]: https://tushare.pro/
-[3]: https://www.youquant.com/
-[4]: https://www.fmz.com/
+[2]: https://tushare.pro/register?reg=504952
+[3]: https://www.youquant.com/sign-up/9725350
+[4]: https://www.fmz.com/sign-up/4833862
 [5]: https://www.joinquant.com/
 
