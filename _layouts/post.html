@@ -171,3 +171,11 @@ layout: default
     }
 </style>
 {% endif %}
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+      document.querySelectorAll('a[href^="http://"], a[href^="https://"]').forEach(link => {
+        link.setAttribute("target", "_blank");
+      });
+    });
+</script>
