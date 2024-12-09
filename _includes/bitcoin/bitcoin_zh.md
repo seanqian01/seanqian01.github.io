@@ -38,6 +38,15 @@ Bitcoin的世界长什么样子，长期更新中...
 
 ---
 
+##### meme币--山寨币生态
+
+|平台名称   | 类型|备注|
+|----- | -----|-----|
+|[Dexscreener][20] | meme币门户|主要一级链上面的meme币都在这上面行情查询|
+|[Tweetscout][22] | X分值评估与查询工具|查询X账户的评估分值|
+
+---
+
 
 
 
@@ -62,6 +71,8 @@ Bitcoin的世界长什么样子，长期更新中...
 [14]: https://minersns.com/mining-machine-list/
 [15]: https://poolbay.com
 [16]: https://miningpoolstats.com
+[20]: https://dexscreener.com/
 
 [21]: https://www.kraken.com
+[22]: https://app.tweetscout.io/
 
