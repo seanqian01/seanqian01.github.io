@@ -14,6 +14,8 @@ Bitcoin的世界长什么样子，长期更新中...
 |[Bitfinex][8]  |老牌交易所|香港运营，KYC接受中国人，易用性不强|
 |[Biyapay][9]  |新加坡的交易所，也是券商|包含币圈，美股，等多类型复合投资|
 |[kraken海妖][21]  |美国交易所，号称也会尽快在美国上市|欧美味道挺重的，但是中国人也可以用|
+|[Hyperliquid][30]  |去中心化交易所|高频量化团队背景，2024很火热，交易速度快，费率相比传统去中心化交易所较低|
+|[Uniswap ][31]  |主流且出道比较早的去中心化交易所|传统的去中心化交易所|
 
 ---
 
@@ -75,4 +77,6 @@ Bitcoin的世界长什么样子，长期更新中...
 
 [21]: https://www.kraken.com
 [22]: https://app.tweetscout.io/
+[30]: https://app.hyperliquid.xyz/trade
+[31]: https://app.uniswap.org/
 
