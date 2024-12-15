@@ -49,6 +49,12 @@ Bitcoin的世界长什么样子，长期更新中...
 
 ---
 
+##### 消耗和娱乐
+
+|平台名称   | 类型|备注|
+|----- | -----|-----|
+|[Polymarket][40] | 市场预测和娱乐对赌|天然的数字货币消耗平台|
+
 
 
 
@@ -79,4 +85,6 @@ Bitcoin的世界长什么样子，长期更新中...
 [22]: https://app.tweetscout.io/
 [30]: https://app.hyperliquid.xyz/trade
 [31]: https://app.uniswap.org/
+
+[40]: https://polymarket.com/
 
