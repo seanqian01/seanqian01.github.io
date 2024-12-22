@@ -94,5 +94,5 @@ Bitcoin的世界长什么样子，长期更新中...
 
 [40]: https://polymarket.com/
 
-[51]: https://usdx.money/
+[51]: https://app.usdx.money/airdrop?code=MDJ5FG
 
