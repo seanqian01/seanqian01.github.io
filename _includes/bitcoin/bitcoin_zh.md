@@ -36,7 +36,7 @@ Bitcoin的世界长什么样子，长期更新中...
 |[NiceHash][13] | 挖矿平台|主流币挖矿，可以进行算力购买挖矿|
 |[挖矿网][14] | 挖矿网|查询币种，矿机产出等评估挖矿效率和收益|
 |[Poolbay][15] | poolbay，效率查询清单|可以按照cpu和GPU的挖矿方式来查询对应挖矿币种效率和产出|
-|[Miningpoolstats][16] | 挖矿效率查询清单|方便查询币种算力和矿池现状|
+
 
 ---
 
@@ -84,7 +84,6 @@ Bitcoin的世界长什么样子，长期更新中...
 [13]: https://www.nicehash.com
 [14]: https://minersns.com/mining-machine-list/
 [15]: https://poolbay.com
-[16]: https://miningpoolstats.com
 [20]: https://dexscreener.com/
 
 [21]: https://www.kraken.com
