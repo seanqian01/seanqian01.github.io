@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "order7-基于Hyperliquid平台的自动下单机器人-项目业务功能与特点分析"
+title:        "order7-基于Hyperliquid平台的自动下单机器人-项目业务功能与特点分析（免费开源）"
 author:       "Seanqian"
 header-style: text
 catalog:      true
@@ -11,6 +11,7 @@ tags:
     - 量化交易
     - hyperliquid-API
     - 量化交易系统
+    - 免费,开源-自动交易机器人
     
 
 ---
