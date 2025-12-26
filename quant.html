@@ -11,14 +11,14 @@ multilingual: true
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-    {% capture about_zh %}{% include quant/quant_zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
+    {% capture quant_zh %}{% include quant/quant_zh.md %}{% endcapture %}
+    {{ quant_zh | markdownify }}
 </div>
 
 <!-- English Version -->
 <div class="en post-container">
-    {% capture about_en %}{% include quant/quant_en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
+    {% capture quant_en %}{% include quant/quant_en.md %}{% endcapture %}
+    {{ quant_en | markdownify }}
 </div>
 
 

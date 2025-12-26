@@ -11,14 +11,14 @@ multilingual: true
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-    {% capture about_zh %}{% include bitcoin/bitcoin_zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
+    {% capture bitcoin_zh %}{% include bitcoin/bitcoin_zh.md %}{% endcapture %}
+    {{ bitcoin_zh | markdownify }}
 </div>
 
 <!-- English Version -->
 <div class="en post-container">
-    {% capture about_en %}{% include bitcoin/bitcoin_en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
+    {% capture bitcoin_en %}{% include bitcoin/bitcoin_en.md %}{% endcapture %}
+    {{ bitcoin_en | markdownify }}
 </div>
 
 
