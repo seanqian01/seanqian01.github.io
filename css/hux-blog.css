@@ -1694,3 +1694,24 @@ img::-moz-selection {
 .no-scroll {
   overflow-y: hidden;
 }
+
+/* Centering Navbar Items */
+@media only screen and (min-width: 768px) {
+    .navbar-collapse {
+        text-align: center;
+    }
+    .navbar-center {
+        display: inline-block;
+        float: none;
+        margin: 0;
+    }
+    .navbar-center > li {
+        float: none;
+        display: inline-block;
+    }
+    /* Ensure links have proper padding/display since float is removed */
+    .navbar-center > li > a {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
