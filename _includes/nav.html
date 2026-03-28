@@ -30,9 +30,9 @@
                         <li>
                             <a href="{{ site.baseurl }}/">Home</a>
                         </li>
-                        <!-- <li>
+                        <li>
                             <a href="{{ site.producturl }}/">Product</a>
-                        </li> -->
+                        </li>
                         {% for page in site.pages %}
                         {% if page.title and page.hide-in-nav != true %}
                         <li>
@@ -40,6 +40,9 @@
                         </li>
                         {% endif %}
                         {% endfor %}
+                        <li>
+                            <a href="{{ site.guideurl }}/">Guide</a>
+                        </li>
                     </ul>
                 </div>
             </div>
