@@ -63,7 +63,7 @@ What the Bitcoin world looks like - continuously updated...
 
 | Project Name | Type | Notes | Timeline |
 |----- | -----|-----|-----|
-|[Usdx][51] | New stablecoin | Integrated automatic annualized passive income (sUSDx sub-token) | Potential airdrop after January 30, 2025 |
+|[Usdx][51] | New stablecoin | Integrated automatic annualized passive income (sUSDx sub-token) | Disappeared!!! |
 
 ---
 
